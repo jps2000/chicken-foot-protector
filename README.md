@@ -14,7 +14,7 @@ To get a proper fit of the plugs adapt scale factor, Use exclusive slicer settin
 
 Silicone for casting:
 https://amzn.eu/d/8PJPKTl 
-Use vacuum chamber for casting. Alternatively you have to fill the nobs  with a syringe and needle to get the air bubbles out.
+Use vacuum chamber for casting. Alternatively you have to fill the nobs from bottom with a syringe and needle to get the air bubbles out.
 
 Silicone cable ties:
 https://amzn.eu/d/eOeRMcn
